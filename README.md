@@ -1,2 +1,3 @@
 # -Data-Driven-Compassion-Optimizing-Humanitarian-Aid-Distribution-for-Global-Development-
-Empower aid distribution! With $10M, HELP International seeks data-driven solutions. By analyzing socio-economic and health metrics, we target countries in dire need, ensuring impactful relief.
+
+Unlocking the power of data-driven decision-making, our mission with HELP International is to strategically allocate $10 million in humanitarian aid. Through advanced analysis of socio-economic and health factors, we pinpoint countries most in need, ensuring maximum impact and relief where it's needed most. Join us in our quest to transform lives and build a better future for communities worldwide.
